@@ -1,5 +1,5 @@
 # Jwt Authentication 
-<h3>user auth with django rest framework and react js using django_rest_framework_simple_jwt.</h3>
+<h3>user auth with django rest framework and react js using django rest_framework_simple_jwt.</h3>
 
 <h4>DIRS:</4>
 <p>COntains "backend" and "frontend folder"</p>
@@ -7,7 +7,7 @@
 <p>Frontend folder contains the frontend code</p>
 
 <h4>Usage</h4>
-<p>clone: git clone django_react-jwtAuthentication.git</p>
+<p>clone: git clone drf-jwtAuthentication.git</p>
 <p>create virtual env: i.e python3 -m venv env</p>
 <p>install required libraries: pip intall -r requirements.txt</p> 
 
