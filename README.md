@@ -1,7 +1,7 @@
 # Jwt Authentication 
 <h3>user auth with django rest framework and react js using django rest_framework_simple_jwt.</h3>
 
-<h4>DIRS:</4>
+<h4>DIRS:</h4>
 <p>COntains "backend" and "frontend folder"</p>
 <p>Backend folder contains the backend code</p>
 <p>Frontend folder contains the frontend code</p>
