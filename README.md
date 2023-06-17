@@ -8,7 +8,7 @@
 
 <h4>Usage</h4>
 <h5>Backend:</h5>
-<p>clone: git clone drf-jwtAuthentication.git</p>
+<p>clone: git clone github.com/cletusola/drf-jwtAuthentication.git</p>
 <p>create virtual env: i.e python3 -m venv env</p>
 <p>Activate vitual env i.e source env/bin/activate </p>
 <p>install required libraries: pip intall -r requirements.txt (requirements.txt file contains the required libraries for backend only)</p>
